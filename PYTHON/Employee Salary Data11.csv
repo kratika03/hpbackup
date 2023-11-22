@@ -1,0 +1,107 @@
+Sr. No,Code,Employee Name,Designation,Department,Join Date,Monthly CTC,Annual CTC
+1,BOM043,Employee_1,Junior Manager,Operations,02-09-2017,35030,420360
+2,BOM063,Employee_3,Senior Executive,Operations,11-12-2017,34042,408504
+3,BOM069,Employee_4,Senior Executive,Operations,01-01-2018,42150,505800
+4,BOM056,Employee_10,Executive,Finance & Admin,13-03-2018,17856,214272
+5,BOM145,Employee_13,Senior Executive,Operations,06-07-2018,48000,576000
+6,BOM149,Employee_15,Executive,D2C,01-07-2018,35000,420000
+7,BOM187,Employee_20,Executive,Operations,01-01-2019,22980,275760
+8,BOM190,Employee_21,General Manager,Management,11-02-2019,216667,2600004
+9,BOM198,Employee_25,VP,Marketing,15-04-2019,416667,5000004
+10,BOM203,Employee_26,Manager,Marketing,02-05-2019,55000,660000
+11,BOM207,Employee_27,Executive,Marketplace,12-06-2019,30422,365064
+12,BOM208,Employee_28,Senior Manager,Finance & Admin,01-06-2019,83844,1006128
+13,BOM216,Employee_31,Executive,Marketing,13-08-2019,27000,324000
+14,BOM217,Employee_32,Executive,Marketplace,19-08-2019,27882,334584
+15,BOM220,Employee_33,Senior Manager,Product,03-09-2019,141667,1700004
+16,BOM225,Employee_35,Executive,D2C,29-10-2019,24000,288000
+17,BOM227,Employee_36,Executive,D2C,14-10-2019,26508,318096
+18,BOM228,Employee_37,Senior Manager,D2C,14-10-2019,141667,1700004
+19,BOM232,Employee_38,Senior Manager,D2C,17-10-2019,114584,1375008
+20,BOM237,Employee_39,Executive,Operations,15-11-2019,18712,224544
+21,BOM246,Employee_42,Senior Manager,D2C,24-12-2019,120834,1450008
+22,BOM256,Employee_46,Senior Manager,Product,01-03-2020,100000,1200000
+23,BOM267,Employee_51,Executive,D2C,30-03-2020,26950,323400
+24,BOM270,Employee_52,VP,Marketplace,09-04-2020,345834,4150008
+25,BOM272,Employee_54,Executive,D2C,06-05-2020,32950,395400
+26,BOM273,Employee_55,Executive,D2C,06-05-2020,23973,287676
+27,BOM277,Employee_56,Junior Manager,Marketing,01-06-2020,45000,540000
+28,BOM281,Employee_57,General Manager,Marketing,29-06-2020,208335,2500020
+29,BOM287,Employee_58,Executive,Finance & Admin,13-07-2020,30000,360000
+30,BOM290,Employee_60,Senior Manager,Finance & Admin,03-08-2020,158334,1900008
+31,BOM294,Employee_63,Manager,Marketplace,18-08-2020,141667,1700004
+32,BOM295,Employee_64,General Manager,Product,17-08-2020,195834,2350008
+33,BOM296,Employee_65,Junior Manager,Operations,01-09-2020,50000,600000
+34,BOM298,Employee_66,Manager,D2C,04-09-2020,45835,550020
+35,BOM299,Employee_67,CXO,D2C,04-09-2020,258334,3100008
+36,BOM301,Employee_69,Executive,Operations,10-09-2020,22757,273084
+37,BOM302,Employee_70,Senior Manager,Marketing,16-09-2020,87500,1050000
+38,BOM303,Employee_71,Executive,Finance & Admin,24-09-2020,20001,240012
+39,BOM304,Employee_72,Senior Executive,Operations,01-09-2020,37950,455400
+40,BOM305,Employee_73,Executive,Operations,05-10-2020,30000,360000
+41,BOM306,Employee_74,VP,Product,05-10-2020,375000,4500000
+42,BOM308,Employee_76,Senior Executive,Marketing,15-10-2020,40000,480000
+43,BOM309,Employee_77,Executive,D2C,19-10-2020,28550,342600
+44,BOM311,Employee_78,Manager,D2C,22-10-2020,26667,320004
+45,BOM312,Employee_79,Senior Manager,Marketing,26-10-2020,100000,1200000
+46,BOM313,Employee_80,Senior Executive,Operations,01-11-2020,32023,384276
+47,BOM316,Employee_81,Manager,Marketing,05-11-2020,35417,425004
+48,BOM318,Employee_82,Executive,Marketing,09-11-2020,30000,360000
+49,BOM320,Employee_84,Senior Executive,Marketing,23-11-2020,40000,480000
+50,BOM321,Employee_85,Manager,Marketing,30-11-2020,70000,840000
+51,BOM322,Employee_86,CXO,D2C,30-11-2020,625000,7500000
+52,BOM325,Employee_87,Executive,Product,02-12-2020,39584,475008
+53,BOM329,Employee_89,Junior Manager,Marketing,14-12-2020,45834,550008
+54,BOM330,Employee_90,Senior Executive,Marketing,15-12-2020,29167,350004
+55,BOM333,Employee_91,Executive,Finance & Admin,21-12-2020,18906,226872
+56,BOM334,Employee_92,Executive,D2C,21-12-2020,25950,311400
+57,BOM338,Employee_95,Manager,Marketplace,02-01-2021,116667,1400004
+58,BOM340,Employee_97,VP,Operations,04-01-2021,375000,4500000
+59,BOM342,Employee_98,General Manager,D2C,05-01-2021,158334,1900008
+60,BOM343,Employee_99,Executive,D2C,01-01-2021,27250,327000
+61,BOM344,Employee_100,Junior Manager,D2C,11-01-2021,33334,400008
+62,BOM345,Employee_101,Senior Manager,Product,11-01-2021,83334,1000008
+63,BOM346,Employee_102,Executive,Product,11-01-2021,39584,475008
+64,BOM347,Employee_103,Executive,D2C,11-01-2021,33950,407400
+65,BOM348,Employee_104,Executive,D2C,11-01-2021,28950,347400
+66,BOM352,Employee_105,Executive,D2C,27-01-2021,28750,345000
+67,BOM357,Employee_109,General Manager,Product,01-02-2021,300000,3600000
+68,BOM358,Employee_110,Manager,Finance & Admin,01-02-2021,50834,610008
+69,BOM360,Employee_111,VP,Finance & Admin,15-02-2021,404167,4850004
+70,BOM361,Employee_112,Executive,Operations,15-02-2021,27950,335400
+71,BOM362,Employee_113,Senior Executive,Operations,16-02-2021,41667,500004
+72,BOM363,Employee_114,Senior Manager,Operations,24-02-2021,116667,1400004
+73,BOM364,Employee_115,Executive,Finance & Admin,25-02-2021,17553,210636
+74,BOM365,Employee_116,Executive,D2C,25-02-2021,25950,311400
+75,BOM366,Employee_117,Manager,D2C,25-02-2021,68750,825000
+76,BOM368,Employee_118,Executive,Marketing,22-02-2021,24430,293160
+77,BOM370,Employee_120,Manager,Operations,01-03-2021,66667,800004
+78,BOM373,Employee_123,Senior Executive,Operations,15-03-2021,36667,440004
+79,BOM376,Employee_125,Manager,Finance & Admin,01-04-2021,112500,1350000
+80,BOM379,Employee_128,Manager,D2C,31-03-2021,100000,1200000
+81,BOM382,Employee_150,Manager,Marketplace,12-04-2021,120834,1450008
+82,BOM383,Employee_151,General Manager,Marketing,12-04-2021,125000,1500000
+83,BOM359,Employee_153,Junior Manager,D2C,05-02-2021,37500,450000
+84,BOM375,Employee_154,Executive,D2C,18-03-2021,27090,325080
+85,BOM380,Employee_155,Executive,Marketplace,05-04-2021,36950,443400
+86,BOM381,Employee_156,Manager,Marketplace,05-04-2021,91667,1100004
+87,BOM384,Employee_159,Executive,D2C,05-04-2021,28950,347400
+88,BOM386,Employee_161,Executive,D2C,15-04-2021,30950,371400
+89,BOM387,Employee_162,Senior Manager,Finance & Admin,19-04-2021,180000,2160000
+90,BOM388,Employee_163,Senior Executive,D2C,17-04-2021,33950,407400
+91,BOM389,Employee_164,Executive,D2C,21-04-2021,28950,347400
+92,BOM391,Employee_166,Senior Executive,D2C,23-04-2021,32000,384000
+93,BOM392,Employee_167,Senior Manager,Operations,26-04-2021,120834,1450008
+94,BOM393,Employee_170,Executive,Marketing,27-04-2021,29950,359400
+95,BOM394,Employee_172,Executive,D2C,03-05-2021,28950,347400
+96,BOM395,Employee_173,Manager,Marketing,03-05-2021,80834,970008
+97,BOM397,Employee_175,Executive,D2C,04-05-2021,32450,389400
+98,BOM398,Employee_177,General Manager,Management,10-05-2021,216667,2600004
+99,BOM399,Employee_178,Manager,D2C,10-05-2021,125000,1500000
+100,BOM400,Employee_179,Executive,D2C,12-05-2021,22327,267924
+101,BOM401,Employee_181,General Manager,Operations,14-05-2021,254167,3050004
+102,BOM402,Employee_183,Executive,Marketing,17-05-2021,29950,359400
+103,BOM403,Employee_185,Manager,Finance & Admin,17-05-2021,125000,1500000
+104,BOM404,Employee_186,Senior Executive,Marketing,17-05-2021,40000,480000
+105,BOM405,Employee_187,Senior Manager,Marketing,17-05-2021,159167,1910004
+106,BOM406,Employee_188,Senior Executive,D2C,17-05-2021,28950,347400
